@@ -1,7 +1,7 @@
 [![MasterHead](https://i.gifer.com/JXA0.gif)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Bisrat Like Melak</h1>
-<h3 align="center">A passionate back-end developer from Ethiopia</h3>
+<h1 align="center">Hi 👋, I'm Bisrat Melak</h1>
+<h3 align="center">Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bisratlike&label=Profile%20views&color=0e75b6&style=flat" alt="bisratlike" /> </p>
