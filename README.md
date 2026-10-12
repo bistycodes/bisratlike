@@ -1,30 +1,20 @@
-[![MasterHead](https://i.gifer.com/JXA0.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.gifer.com/JXA0.gif)](#)
 
-<h1 align="center">Hi 👋, I'm Bisrat Melak</h1>
+<h1 align="center">Hi 👋, I'm Bisty</h1>
 <h3 align="center">Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bisratlike&label=Profile%20views&color=0e75b6&style=flat" alt="bisratlike" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bisratlike&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bisratlike" alt="bisratlike" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bisratlike" alt="trophies" /></a> </p>
 
-- 🔭 I’m currently working on **Aqua Pro Green House project**
+- 🔭 I'm currently building **backend systems in Go**
 
-- 🌱 I’m currently learning **Infra**
+- 🌱 I'm currently learning **Infra**
 
-- 😄 Pronouns: **she/her**
-
-- 👨‍💻 Check my Portfolio [https://bisratmelak-portfolio.netlify.app/index-01.html](https://bisratmelak-portfolio.netlify.app/index-01.html)
-
-- 💬 Ask me about **GO**
+- 💬 Ask me about **Go**
 
 - 📫 How to reach me **bisratlike@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/bisrat-melak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://leetcode.com/bisratlike/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -38,6 +28,7 @@
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/> </a>
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -56,6 +47,6 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bisratlike&show_icons=true&locale=en&layout=compact" alt="bisratlike" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bisratlike&show_icons=true&locale=en&layout=compact" alt="top languages" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bisratlike&" alt="bisratlike" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bisratlike&" alt="streak stats" /></p>
